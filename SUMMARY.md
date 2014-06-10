@@ -1,0 +1,37 @@
+# Summary
+* [简介](/about_cocostudio/zh.md)
+* 开始
+   * [获取](/getting_cocostudio)
+   * [安装](/install)
+   * [版本特性](/version_feature/)
+   * [版本更新]()
+   * [历史版本](/version_history)
+* 资源编辑器
+ * [简介](/Introduction/zh.md)
+ * [界面]()
+   * [界面布局](/interface_layout/)
+   * [起始页面](start_page)
+   * [菜单栏](/menu_bar/)
+   * [快捷工具栏](/express_tools_bar/)
+   * [控件列表](/wiget_list_bar/)
+   * [渲染区](/render_panel/)
+   * [对象结构面板](/object_structure_panel/)
+   * [画布列表面板](/canvas_list_panel/)
+   * [动画帧面板](/animation_frame_panel/)
+   * [输出面板](/logout_panel/)
+   * [属性面板](/properties_panel/)
+   * [资源面板](/resource_panel/)
+   * [状态栏](/status_bar/)
+* 快速入门
+ * [创建一个UI项目]
+ * [创建一个动画]
+ * 打开已有项目
+ * 
+ * 
+* 通用
+ * [窗口调整]()
+ * [快捷键]()
+* 其他
+ * [关键字说明]() 
+ * [获取帮助](/contact_support)
+ * [关于本文档]()
