@@ -46,4 +46,3 @@ UI编辑器支持目前Cocos2d-x所有控件，同时支持碎图合并以及自
 
 [点此查看：如何使用UI工程](3-5UIEditor-Use-Project.md)
 
-<center>Copyright © 2013 [CocoStudio.org](http://www.cocostudio.org ""). All Rights Reserved. 版本:1.4.0.0</center>
