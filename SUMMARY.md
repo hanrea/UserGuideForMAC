@@ -6,22 +6,35 @@
    * [版本特性](/version_feature/)
    * [版本更新]()
    * [历史版本](/version_history)
-* 资源编辑器
- * [简介](/Introduction/zh.md)
- * [界面]()
-   * [界面布局](/interface_layout/)
-   * [起始页面](start_page)
-   * [菜单栏](/menu_bar/)
-   * [快捷工具栏](/express_tools_bar/)
-   * [控件列表](/wiget_list_bar/)
-   * [渲染区](/render_panel/)
-   * [对象结构面板](/object_structure_panel/)
-   * [画布列表面板](/canvas_list_panel/)
-   * [动画帧面板](/animation_frame_panel/)
-   * [输出面板](/logout_panel/)
-   * [属性面板](/properties_panel/)
-   * [资源面板](/resource_panel/)
-   * [状态栏](/status_bar/)
+* [界面]()
+  * [界面布局](/interface_layout/)
+  * [起始页面](start_page)
+  * [菜单栏](/menu_bar/)
+  * [快捷工具栏](/express_tools_bar/)
+  * [控件列表](/wiget_list_bar/)
+  * [渲染区](/render_panel/)
+  * [对象结构面板](/object_structure_panel/)
+  * [画布列表面板](/canvas_list_panel/)
+  * [动画帧面板](/animation_frame_panel/)
+  * [输出面板](/logout_panel/)
+  * [属性面板](/properties_panel/)
+  * [资源面板](/resource_panel/)
+  * [状态栏](/status_bar_panel/)
+* UI控件
+	* 按钮
+	* 复选框
+	* 精灵
+	* 图片
+	* 数字标签
+	* 自定义字体
+	* 进度条
+	* 滑动条
+	* 文本框
+	* 输入框
+	* 层容器
+	* 滚动层容器
+	* 列表层容器
+	* 分页层容器
 * 快速入门
  * [创建一个UI项目]
  * [创建一个动画]
