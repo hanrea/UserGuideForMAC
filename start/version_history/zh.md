@@ -5,8 +5,13 @@
 ----------
 日期：2014/06/17   
 版本：CocoStudio for Mac V1.0.0.0 Alpha
-下载：[**MAC**](..........)      [**WIN**]()
+下载：	
+
+- [**CocoStudio for MAC**](..........)      
+- **CocoStudio for WIN**  
+
 说明：此版本仅提供MAC版本下载
+
 ----------
 
 ##Windows版本
