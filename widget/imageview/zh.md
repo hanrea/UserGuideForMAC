@@ -1,4 +1,4 @@
-# 图片[UIImageView]
+# 图片[ImageView]
 
 ## 图标
 

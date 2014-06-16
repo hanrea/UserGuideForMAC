@@ -53,14 +53,3 @@
 
 
 请查看[UI控件通用属性页](3-3-16UIEditor-General-Property.md)。
-
-
-##右键
-在文本输入框之上点击鼠标右键，则将弹出右键菜单。
-- Cut
-- Copy
-- Paste
-- Delete
-- Select All
-- Input Method   
-- Insert Unicode Control Character

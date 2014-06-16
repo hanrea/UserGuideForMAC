@@ -1,10 +1,10 @@
-## 自定义字体[UILabelBMFont]
+# 自定义字体[LabelBMFont]
 
-### 图标
+## 图标
 
 ![](img/3-3-7-img-01.png)</div>
 
-### 描述
+## 描述
 
 UILabelBMFont的类是一个UIWidget子类，它实现了在触摸屏上的自定义字体控件。
 
@@ -15,15 +15,15 @@ UILabelBMFont的类是一个UIWidget子类，它实现了在触摸屏上的自�
 请查看[git tongyongye](./../)
 
 
-### 特性
+## 特性
 
 ![](img/3-3-7-img-02.png)</div>
 
-#### 文本
+### 文本
 
 显示的标签内容
 
-#### FNT字体文件
+### FNT字体文件
 
 配置自定义字体控件支持的字体文件（.fnt）。
 
