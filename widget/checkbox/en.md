@@ -2,7 +2,7 @@
 
 ## Icon
 
-![](img/3-3-3-img-01.png)
+![](./res/checkbox.png)
 
 ## Description
 
@@ -18,7 +18,7 @@ For more information, see [git tongyongye](./../)
 
 ### Feature
 
-![](img/3-3-3-img-02.png)
+
 
 #### Pressed-down background image
 

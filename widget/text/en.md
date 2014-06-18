@@ -2,15 +2,17 @@
 
 ## Icon
 
-![](img/3-3-12-img-01.png)
+![](./res/text.png)
 
 ## Description
 The Text subclass implements the text area of the touch screen. The Text subclass is a subclass of the Widget.
 
-
-
 The widget provides methods to set the text area of the display's width and height, font size, font, alignment, text content, whether scaling applies, and other attributes.
 
+
+## General Property
+
+Link [General Property](../widget/general_property.md)
 
 ## Feature
 

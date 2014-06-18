@@ -2,7 +2,7 @@
 
 ## Icon
 
-![](img/3-3-17-img-01.png)</div>
+![](./img/listview.png)
 
 ## Description
 
@@ -10,10 +10,13 @@ The UIScrollView subclass implements the scrolling layer in the touch screen. Th
 The control provides methods to set the layer container's clip, width and height, background color opacity, fill color, picture resources and other attributes.
 
 
+## General Property
+
+Link [General Property](../widget/general_property.md)
 
 ## Feature
 
-![](img/3-3-17-img-02.png)</div>
+
 
 ### BounceBack
 

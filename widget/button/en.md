@@ -2,6 +2,7 @@
 
 ### Icon
 
+![](./res/button.png)
 
 ## Description
 
@@ -10,10 +11,9 @@ The UIButton subclass implements buttons in the touch screen. The UIButton subcl
 
 The widget provides methods to set title, image, button and other appearance attributes. By using the set method, you can specify a different appearance for each button state.
 
+## General Property
 
-## Common properties
-
-For more information, see [widget common properties](./../)
+Link [General Property](../widget/general_property.md)
 
 ## Feature
 
@@ -39,12 +39,12 @@ The default option which displays the graphic (png/jpg) in Normal state.
 Specifies a text font, which supports Arial, bold, and Microsoft Yahei.
 Drag a .ttf type file to properties area to change font style。
 
-字体配置失效请查看：[常见问题=>字体不可用]()
+
 
 #### Label color
 
 Set the label color.
-点击弹出[颜色选择器]().
+
 
 #### Text
 

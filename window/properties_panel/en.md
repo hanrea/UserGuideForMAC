@@ -11,18 +11,18 @@ Properties panel is used to describe the properties of the currently selected co
 
 
 
-For more information, see[widget General Property](3-3-16UIEditor-General-Property.md)。
+For more information, see[widget General Property](../widget/general_property.md)。
 
 ### Size And Mode
 
 
 
-For more information, see[widget General Property](3-3-16UIEditor-General-Property.md)。
+For more information, see[widget General Property](../widget/general_property.md)。
 
 
 ### Layout
 
-For more information, see[widget General Property](3-3-16UIEditor-General-Property.md)。
+For more information, see[widget General Property](../widget/general_property.md)。
 
 ### Feature
 
@@ -30,24 +30,24 @@ For more information, see[widget General Property](3-3-16UIEditor-General-Proper
 
 Feature sets the widget's properties. Every widget will have its own unique properties. For more information, see each widget's detailed page in this List.
 
-* [button]()
-* [复选框]()
-* [精灵]()
-* [图片]()
-* [数字标签]()
-* [自定义字体]()
-* [进度条]()
-* [滑动条]()
-* [文本框]()
-* [输入框]()
-* [层容器]()
-* [滚动层容器]()
-* [列表层容器]()
-* [分页层容器]()
+* [Button](../widget/button.md)
+* [Vheck Box](../widget/checkbox.md)
+* [Sprite](../widget/sprite.md)
+* [ImageView](../widget/imageview.md)
+* [LabelAtlas](../widget/labelatlas.md)
+* [LabelBMFont](../widget/labelbmfont.md)
+* [LoadingBar](../widget/loadingbar.md)
+* [Slider](../widget/slider.md)
+* [Text](../widget/text.md)
+* [TextField](../widget/textfield.md)
+* [Layout](../widget/layout.md)
+* [ScrollView](../widget/scrollview.md)
+* [ListView](../widget/listview.md)
+* [PageView](../widget/pageview.md)
 
 
 ### Children Widget Layout
 
 
 
-For more information, see[widget General Property](3-3-16UIEditor-General-Property.md)。
+For more information, see[widget General Property](../widget/general_property.md)

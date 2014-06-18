@@ -2,7 +2,7 @@
 
 ## Icon
 
-![](img/3-3-8-img-01.png)
+![](./res/loadingbar.png)
 
 ## Description
 
@@ -10,10 +10,13 @@ The UILoadingBar subclass implements the progress bar of the touch screen. The U
 
 The widget provides methods to set the value for the progress bar, progress bar orientation, image resources and other attributes.
 
+## General Property
+
+Link [General Property](../widget/general_property.md)
 
 ## Feature
 
-![](img/3-3-8-img-02.png)
+
 
 ### Image resources 
 

@@ -2,7 +2,7 @@
 
 ## Icon
 
-![](img/3-3-14-img-01.png)
+![](./res/textfield.png)
 
 ## Description
 
@@ -10,14 +10,13 @@ The TextField subclass implements the field in the touch screen. The TextField s
 
 The widget provides methods to set the font size, font, password mode, length, text, placeholder text and other attributes.
 
-## 常规属性
+## General Property
 
-请查看[git tongyongye](./../)
-
+Link [General Property](../widget/general_property.md)
 
 ## Feature
 
-![](img/3-3-14-img-02.png)
+
 
 ### Text
 

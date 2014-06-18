@@ -11,9 +11,7 @@ Hold the blank space key and click the left mouse button to render mobile operat
 
 ### Scale View
 
-- 在OS X系统下使用“Magic Mouse”鼠标可以通过上下移动触摸来缩放渲染区视图。    
-- 使用标准鼠标可以通过滚轮前后滚动来缩放渲染区视图    
-- 除了通过鼠标滚动来缩放视图，还可以调整编辑器右下角的[状态栏](./../sssss/zh.md)视图滑动条或缩放比例下拉菜单中调整视图缩放。
+Use the mouse wheel before and after rolling to standard zoom view rendering area
 
 ## Functionality
 
@@ -37,7 +35,7 @@ Hold the left mouse button and move, rendering area will follow the mouse to dra
 
 When you select a widget and add a widget through the context menu, CocoStudio will add a widget to your currently selected widget. If you don't select a widget before you launching the context menu to add a widget, CocoStudio will add the widget as a root widget's sub-widget.
 
-### 布局对齐
+### Layout
 
 ![](./res/widget_layout.png)
 

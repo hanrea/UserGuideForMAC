@@ -2,21 +2,19 @@
 
 ## Icon
 
-![](img/3-3-7-img-01.png)</div>
+![](./res/labelbmfont.png)
 
 ## Description
 
 The UILabelBMFont subclass implements custom fonts in the touch screen. The UILabelBMFont subclass is a subclass of UIWidget.
 The widget provides methods to set font file, text content and other attributes.
 
-## 常规属性
+## General Property
 
-请查看[git tongyongye](./../)
-
+Link [General Property](../widget/general_property.md)
 
 ## Feature
 
-![](img/3-3-7-img-02.png)</div>
 
 ### Text
 

@@ -2,7 +2,7 @@
 
 ## Icon
 
-![](img/3-3-11-img-01.png)
+![](./res/slider.png)
 
 Description
 
@@ -10,10 +10,13 @@ The UISlider subclass implements a silder for the touch screen. The UISlider sub
 
 The widget provides methods to set the slider background images, different states of node resources, the slide's progress value, an internal progress bar of resources and other attributes.
 
+## General Property
+
+Link [General Property](../widget/general_property.md)
 
 ## Feature
 
-![](img/3-3-11-img-02.png)
+
 
 ### Node pressed-down state
 

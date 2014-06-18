@@ -2,7 +2,7 @@
 
 ## OverView
 
-![](./res/main_window.png)
+![](./res/start_page_main_window.png)
 
 Starting page is a commonly used function interface, in order to quickly enter the state of work or study.History provides a create operation project, project list, sample and so on.
 

@@ -2,16 +2,16 @@
 
 ## Icon
 
-![](img/3-3-9-img-01.png)
+![](./res/layout.png)
 
 ## Description
 
 The layout subclass implements a container layer in the touch screen. The layout subclass is a subclass of UIWidget.
 The control provides methods to set the layer container's clip, width and height, background color opacity, fill color, picture resources and other attributes.
 
-##常规属性
+## General Property
 
-请查看[git tongyongye](./../)
+Link [General Property](../widget/general_property.md)
 
 ## Feature
 

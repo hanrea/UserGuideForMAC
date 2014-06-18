@@ -1,51 +1,35 @@
 # Summary
 
-* 开始
-   * [概述](./start/about_cocostudio/zh.md)2
-   * [安装](./start/install/zh.md)3
-   * [版本特性](./start/version_feature/zh.md)2
-   * [历史版本](./start/version_history/zh.md)2
-* 界面
-  * [界面布局](./window/interface_layout/zh.md)
-  * [起始页面](./window/start_page/zh.md)
-  * [菜单栏](./window/menu_bar/zh.md)
-  * [快捷工具栏](./window/express_tools_bar/zh.md)
-  * [控件列表](./window/wiget_list_bar/zh.md)
-  * [渲染区](./window/render_panel/zh.md)
-  * [对象结构面板](./window/object_structure_panel/zh.md)
-  * [画布列表面板](./window/canvas_list_panel/zh.md)
-  * [动画帧面板](./window/animation_frame_panel/zh.md)
-  * [输出面板](./window/logout_panel/zh.md)
-  * [属性面板](./window/properties_panel/zh.md)
-  * [资源面板](./window/resource_panel/zh.md)
-  * [状态栏](./window/status_bar_panel/zh.md)
-* UI控件
-	* [按钮](./widget/button/zh.md)
-	* [复选框](./widget/checkbox/zh.md)
-	* [精灵](./widget/sprite/zh.md)
-	* [图片](./widget/imageview/zh.md)
-	* [数字标签](./widget/labelatlas/zh.md)
-	* [自定义字体](./widget/labelnmfont/zh.md)
-	* [进度条](./widget/loadingbar/zh.md)
-	* [滑动条](./widget/slider/zh.md)
-	* [文本框](./widget/text/zh.md)
-	* [输入框](./widget/textfield/zh.md)
-	* [层容器](./widget/layout/zh.md)
-	* [滚动层容器](./widget/scrollview/zh.md)
-	* [列表层容器](./widget/listview/zh.md)
-	* [分页层容器](./widget/pageview/zh.md )
-* 快速入门
-	* [创建一个UI项目]
-	* 打开已有项目
- 	* [窗口调整]()
- 	* 创建序列帧动画
-* 常见问题
-  *	纹理不渲染
-  *	字体不显示
-* 其他
- * [快捷键](./other/keyboard_shortcuts/zh.md)
- * [术语表](./other/glossary/zh.md)0
- * [版本](./other/version/zh.md) 1
- * [系统差异](./other/operating_system_differences/zh.md)1
- * [关于本文档](./other/keyboard_shortcuts/zh.md)
- * [获取帮助](./other/keyboard_shortcuts/zh.md)
+* [开始]()
+	* [概述](start/about/zh.md)
+	* [安装](start/install/zh.md)
+	* [版本特性](start/version_feature/zh.md)
+* [界面]()
+	* [界面布局](window/interface_layout/zh.md)
+	* [起始页面](window/start_page_panel/zh.md)
+	* [快捷工具栏](window/express_tools_bar/zh.md)
+	* [渲染区](window/render_panel/zh.md)
+	* [动画帧面板](window/animation_frame_panel/zh.md)
+	* [属性面板](window/properties_panel/zh.md)
+	* [资源面板](window/resource_panel/zh.md)
+	* [菜单栏](window/menu_bar/zh.md)
+* [UI控件]()
+	* [按钮](widget/button/zh.md)
+	* [复选框](widget/checkbox/zh.md)
+	* [精灵](widget/sprite/zh.md)
+	* [图片](widget/imageview/zh.md)
+	* [数字标签](widget/labelatlas/zh.md)
+	* [自定义字体](widget/labelnmfont/zh.md)
+	* [进度条](widget/loadingbar/zh.md)
+	* [滑动条](widget/slider/zh.md)
+	* [文本框](widget/text/zh.md)
+	* [输入框](widget/textfield/zh.md)
+	* [层容器](widget/layout/zh.md)
+	* [滚动层容器](widget/scrollview/zh.md)
+	* [列表层容器](widget/listview/zh.md)
+	* [分页层容器](widget/pageview/zh.md)
+	* [通用属性](widget/general_property/zh.md)
+* [其他]()
+	* [获取帮助](other/contact_support/zh.md)
+	* [版本](other/version/zh.md)
+	* [系统差异](other/operating_system_differences/zh.md)
