@@ -6,7 +6,7 @@
 
 ## Description
 
-UILableAtlas is a subclass of UIWidget that implements a label atlas in the touch screen.
+LableAtlas is a subclass of Widget that implements a label atlas in the touch screen.
 The widget provides methods to set tag image, label first char, label char width, label char height, text content and other attributes.
 
 ## General Property
@@ -16,7 +16,6 @@ Link [General Property](../widget/general_property.md)
 
 ## Feature
 
-![](img/3-3-6-img-02.png)
 
 
 #### Label first char

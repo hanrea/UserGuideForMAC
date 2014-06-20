@@ -6,7 +6,7 @@
 
 Description
 
-The UISlider subclass implements a silder for the touch screen. The UISlider subclass is a subclass of UIWidget.
+The Slider subclass implements a silder for the touch screen. The Slider subclass is a subclass of Widget.
 
 The widget provides methods to set the slider background images, different states of node resources, the slide's progress value, an internal progress bar of resources and other attributes.
 

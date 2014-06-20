@@ -4,11 +4,11 @@
 
 ----------
 Date：2014/06/17   
-Version：CocoStudio for Mac V1.0.0.0 Alpha
+Version：Cocos Studio for Mac V1.0.0.0 Alpha
 Download：	
 
-- [**CocoStudio for MAC**](..........)      
-- **CocoStudio for WIN**  
+- [**Cocos Studio for Mac**](..........)      
+- **Cocos Studio for WIN**  
 
 Note：This version only for "OS X" system.
 

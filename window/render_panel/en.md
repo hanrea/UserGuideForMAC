@@ -1,8 +1,8 @@
-# Rendering Panel
+# Render Panel
 
 ## Overview
 ![](./res/render_panel.png)
-The Rendering panel provides a rendering widget to support real-time previewing functionality.
+The Render panel provides a rendering widget to support real-time previewing functionality.
 
 ## View Operation
 
@@ -33,7 +33,7 @@ Hold the left mouse button and move, rendering area will follow the mouse to dra
 
 ![](./res/right_menu.png)
 
-When you select a widget and add a widget through the context menu, CocoStudio will add a widget to your currently selected widget. If you don't select a widget before you launching the context menu to add a widget, CocoStudio will add the widget as a root widget's sub-widget.
+When you select a widget and add a widget through the context menu, Cocos Studio will add a widget to your currently selected widget. If you don't select a widget before you launching the context menu to add a widget, Cocos Studio will add the widget as a root widget's sub-widget.
 
 ### Layout
 

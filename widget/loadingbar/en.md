@@ -6,7 +6,7 @@
 
 ## Description
 
-The UILoadingBar subclass implements the progress bar of the touch screen. The UILoadingBar subclass is a subclass of UIWidget.
+The LoadingBar subclass implements the progress bar of the touch screen. The LoadingBar subclass is a subclass of Widget.
 
 The widget provides methods to set the value for the progress bar, progress bar orientation, image resources and other attributes.
 

@@ -6,7 +6,7 @@
 
 ## Description
 
-The UIButton subclass implements buttons in the touch screen. The UIButton subclass is a subclass of UIWidget.
+The Button subclass implements buttons in the touch screen. The Button subclass is a subclass of Widget.
 
 
 The widget provides methods to set title, image, button and other appearance attributes. By using the set method, you can specify a different appearance for each button state.

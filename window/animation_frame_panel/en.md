@@ -29,13 +29,13 @@ Animation frames panel main users of the animation editor, it will record every 
 
 - Add Frame  
 
-	1. From the above picture, we can see that when you launch a context menu to add a keyframe, CocoStudio adds a small gray ellipse flag to indicate the keyframe.
+	1. From the above picture, we can see that when you launch a context menu to add a keyframe, Cocos Studio adds a small gray ellipse flag to indicate the keyframe.
 	2. You can also add a keyframe by clicking the top left button.
 
  
 - Delete Frame
 
-As shown in the above picture, when you delete a keyframe from the context menu, CocoStudio deletes the small gray ellipse flag.
+As shown in the above picture, when you delete a keyframe from the context menu, Cocos Studio deletes the small gray ellipse flag.
 
 - Adjust Frame
 

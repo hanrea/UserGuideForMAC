@@ -2,11 +2,11 @@
 
 ## Icon
 
-![](./img/listview.png)
+![](./res/listview.png)
 
 ## Description
 
-The UIScrollView subclass implements the scrolling layer in the touch screen. The UIScrollView subclass is a subclass of UIWidget.
+The ScrollView subclass implements the scrolling layer in the touch screen. The ScrollView subclass is a subclass of Widget.
 The control provides methods to set the layer container's clip, width and height, background color opacity, fill color, picture resources and other attributes.
 
 

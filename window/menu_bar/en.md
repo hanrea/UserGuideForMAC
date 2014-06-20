@@ -8,33 +8,29 @@ The menu display a series of commands.Most of the menu on the menu bar, toolbar 
 The menu bar is a collection of editor that is commonly used in operation.Mainly divided into the file, edit, view, help, language five categories for the operation of the whole editor.  
  
 **Note：**
-- Under "OS X" operating system , only selected the Cocos Studio window, can see it in the operating system's toolbar.While in the "Windows" operating system, displayed in the CocoStudio to run at the top of the window.
+- Under "OS X" operating system , only selected the Cocos Studio window, can see it in the operating system's toolbar.While in the "Windows" operating system, displayed in the Cocos Studio to run at the top of the window.
 
 
 ## Menu
-###Cocos Studio
+
+### Cocos Studio
 Only display in "OS X" operating system.
 
 This menu item used to introduce:
 
--  About "CocoStudio"
+-  About "Cocos Studio"
 - Exit
 
 ### File（ALT+F）
 
-
-
 - New Project (Ctrl + N)
 
-Creates a new project. If a project is already opened, CocoStudio prompts you to save the current project. When you set up a new project, specify the project name and location.
+Creates a new project. If a project is already opened, Cocos Studio prompts you to save the current project. When you set up a new project, specify the project name and location.
  
 **Note**：  
 	1. ：The project name can't contain the following symbols : "?", "`", "\", "*", "<", ">","|"" 
-	2.  When CocoStudio is running on Windows XP, do not put the project on your desktop.
+	2.  When Cocos Studio is running on Windows XP, do not put the project on your desktop.
 	3.  For all Windows operating systems, do not put the project under the system directory.
-
- 
-
 
 - Open Project(Ctrl+O)   
 	Opens the existing project.
@@ -45,17 +41,17 @@ Creates a new project. If a project is already opened, CocoStudio prompts you to
 - Save as(Ctrl-Shift+S)  
 
 	Saves the project as a new project（ver 1.1 or later）.
-  
+
 -  Export project
 
 	Export current project.
- 
+
 -  Import template  
 	Imports the existing project.   
 		Note:
 
-		1. CocoStudio only supports importing the json files which are exported by UI editor.
-		2. Before you import json files, CocoStudio will import all the resources which are under the same directory to CocoStudio.
+		1. Cocos Studio only supports importing the json files which are exported by UI editor.
+		2. Before you import json files, Cocos Studio will import all the resources which are under the same directory to Cocos Studio.
 
 - Exit（Alt+F4）  
 	Closes the editor. If the project is modified, it will prompt you to save the project.
@@ -64,14 +60,10 @@ Creates a new project. If a project is already opened, CocoStudio prompts you to
 
 #### Edit（ALT+E）
 
-
 -  Undo(Ctrl+Z)
 	Undos the last operation.
 -  Redo(Ctrl+Y)
   	Repeats the last undo operation.
-
-
-
 
 ----------
 #### Window（ALT+W）  
@@ -80,8 +72,8 @@ Creates a new project. If a project is already opened, CocoStudio prompts you to
 	Opens Object Structure windows
 - Property
 	Opens Property windows.
-- Resource
-	Opens Resource windows.
+- Resources
+	Opens Resources windows.
 - Canvas List
 	Opens Canvas List windows.
 - Output
@@ -89,14 +81,14 @@ Creates a new project. If a project is already opened, CocoStudio prompts you to
 - Start page windows
 	Opens the Start page window of the UI editor.
 - Reset windows layout
-	Resets CocoStudio's window layout to its default value.
+	Resets Cocos Studio's window layout to its default value.
 ----------
 
 #### Help(ALT+H)
 
 - See the help（F1）   
 	See the online help documentation。
-- About "CocoStudio"   
+- About "Cocos Studio"   
 	Open the 
 - The new version check up.
 	Check whether there is a new version, version to upgrade.

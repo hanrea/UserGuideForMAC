@@ -1,7 +1,8 @@
 # Version
 
 ## Definitions
-Before release each major version CocoStudio's official "x.0.0.0" , there is usually a large number of available alpha version, beta version.These versions lack sufficient stability to be used as a product, but they are an important milestone towards the release version.Before the official release, by a majority of the users of these versions together to test and provide feedback. These versions should be downloaded and used by the users of more familiar CocoStudio and developers who want to find software vulnerabilities.In short, beta version is more unstable than the release candidate, alpha version is more unstable than the beta version.
+
+Before release each major version Cocos Studio's official "x.0.0.0" , there is usually a large number of available alpha version, beta version.These versions lack sufficient stability to be used as a product, but they are an important milestone towards the release version.Before the official release, by a majority of the users of these versions together to test and provide feedback. These versions should be downloaded and used by the users of more familiar Cocos Studio and developers who want to find software vulnerabilities.In short, beta version is more unstable than the release candidate, alpha version is more unstable than the beta version.
 
 ### Alpha Version
 

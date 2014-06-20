@@ -9,7 +9,7 @@ Starting page is a commonly used function interface, in order to quickly enter t
 ## Functions
 ### Start
 
-Provide the shortcut menu, including new project, open the project function
+Provide the shortcut menu, including creat new project, open the project function
 
 - Creates Project.
 Creates a new project.
@@ -20,4 +20,4 @@ Opens the existing project.
 Displays edit project recently, quickly open the project recently.
 
 ### Samples
-Editor provided sample, can pass these sample learning CocoStudio production and use.
+Editor provided samples, can pass these samples to learning or use Cocos Studio.

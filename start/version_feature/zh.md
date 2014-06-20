@@ -2,7 +2,7 @@
 
 ##当前版本
 
-当前最新版本为"CocoStudio for Mac V1.0.0.0 Alpha"
+当前最新版本为"Cocos Studio for Mac V1.0.0.0 Alpha"
 
 关于"版本"的声明请查看[版本](./../other/version/zh.md)介绍
 

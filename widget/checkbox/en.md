@@ -6,7 +6,7 @@
 
 ## Description
 
-The UIScrollView subclass implements a check box in the touch screen. The UIScrollView subclass is a subclass of UIWidget.
+The ScrollView subclass implements a check box in the touch screen. The ScrollView subclass is a subclass of Widget.
 
 
 The widget provides methods to set the different states of the background image and checks the selected tag of the state image and other attributes. By using the set method, you can specify a different appearance for the each checkbox state. 

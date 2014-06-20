@@ -12,7 +12,7 @@ Sets the widget's blend color. The drop-down menu will appear after the color se
 
 ### Name
 
-Sets the widget's name, so the widget can be obtained through the named values in CocoStudio.
+Sets the widget's name, so the widget can be obtained through the named values in Cocos Studio.
 
 ### Interactive
 
@@ -24,7 +24,7 @@ Sets the widget's rendering order. Smaller values are first rendering, but may b
 
 ### Tag
 
-Sets the widget's tag, so the widget can be obtained through the tag values in CocoStudio.
+Sets the widget's tag, so the widget can be obtained through the tag values in Cocos Studio.
 
 
 ### Show/Hide
@@ -69,7 +69,7 @@ When drawing, follow the rules below:
  2. Stretch graphics and keeps the corners at the same size.
  3. You can simultaneously stretch the middle, horizontal, and vertical sections. The end result may not keep the original proportions.
 
-Four parameters of CocoStudio
+Four parameters of Cocos Studio
 
  1. CapInsetsX and CapInsetsY use a pair of parameters. They determine our center coordinates of the lower left corner. Cocos2d-x uses the lower left corner as the origin.
  2. CapInsetsWidth and CapInsetsHeight determines the size of the center.

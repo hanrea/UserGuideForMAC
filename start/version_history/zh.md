@@ -4,20 +4,20 @@
 
 ----------
 日期：2014/06/17   
-版本：CocoStudio for Mac V1.0.0.0 Alpha
+版本：Cocos Studio for Mac V1.0.0.0 Alpha
 下载：	
 
-- [**CocoStudio for MAC**](..........)      
-- **CocoStudio for WIN**  
+- [**Cocos Studio for Mac**](..........)      
+- **Cocos Studio for WIN**  
 
-说明：此版本仅提供MAC版本下载
+说明：此版本仅提供Mac版本下载
 
 ----------
 
 ##Windows版本
 <table>
    <tr>
-      <td>CocoStudio</td>
+      <td>Cocos Studio</td>
       <td>Cocos2d-x</td>
    </tr>
    <tr>
@@ -64,12 +64,12 @@
 
 
 
-以下的版本是cocostudio独立发布cocos2d-x包，该包是基于cocos2d-x包的扩展包。 
-如果您使用的1.0.0.0版本之前的cocostudio编辑器，建议您同步升级编辑器和引擎到最新的版本。 
+以下的版本是Cocos Studio独立发布cocos2d-x包，该包是基于cocos2d-x包的扩展包。 
+如果您使用的1.0.0.0版本之前的Cocos Studio编辑器，建议您同步升级编辑器和引擎到最新的版本。 
 如果您因特殊原因无法下载最新的版本，那么您可以到http://www.cocoachina.com/bbs/read.php?tid=154886下载对应的版本 
 <table>
    <tr>
-      <td>CocoStudio</td>
+      <td>Cocos Studio</td>
       <td>Cocos2d-x</td>
    </tr>
    <tr>
@@ -126,7 +126,7 @@
 以下版本版本是单独发布的guilib扩展包
 <table>
    <tr>
-      <td>CocoStudio</td>
+      <td>Cocos Studio</td>
       <td>Cocos2d-x</td>
    </tr>
    <tr>
