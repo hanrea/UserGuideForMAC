@@ -2,7 +2,7 @@
 
 ## 图标
 
-
+![](res/loadingbar.png)
 
 ## 描述
 

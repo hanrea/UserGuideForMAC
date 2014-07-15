@@ -2,7 +2,7 @@
 
 ## Icon
 
-![](./res/labelbmfont.png)
+![](./res/labelnmfont.png)
 
 ## Description
 

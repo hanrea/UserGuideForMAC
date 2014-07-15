@@ -1,8 +1,8 @@
 # Cocos Studio
 
-![](./res/Cocos Studio.png)
+![](./res/CocosStudio.png)
 
-## 关于
+## 概述
 
 Cocos Studio是基于Cocos2d-x的游戏开发工具箱。它根据游戏开发的分工将编辑器分各个模块，当前版本包含了UI编辑模块和动画编辑模块，不久将会添加粒子编辑模块，地图编辑模块以及场景编辑模块等。使游戏编辑操作更统一，协作更自由。
 

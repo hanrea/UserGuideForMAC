@@ -4,9 +4,9 @@
 
 ### Help Document Location
 
-- "Help" Menu   
-	After a successful installation Cocos Studio,Click the "Menu" -> "Help" -> "View Help" will automatically open the page [manual.Cocos Studio.org](manual.Cocos Studio.org)   
-- F1 Help   
+- "Help" Menu
+	After a successful installation Cocos Studio,Click the "Menu" -> "Help" -> "View Help" will automatically open the page [manual.CocoStudio.org](http://manual.CocoStudio.org)
+- F1 Help
 	After a successful installation Cocos Studio, you can click "F1" on the keyboardto to open the Help link.
 
 ### Other Channels
@@ -17,7 +17,7 @@
 
 ### History Document Version
 
-Link to [User Manual]() page you can download the published version of the help manual of history , each version will correspond to a final version of the software update.
+Link to [User Manual](http://manual.cocostudio.org) page you can download the published version of the help manual of history , each version will correspond to a final version of the software update.
 
 ## Get Support
 
@@ -25,17 +25,17 @@ Link to [User Manual]() page you can download the published version of the help 
 
 Use and the learning process can looking for a known problem in the following communities, for unknown problems can post new questions posted for help.
 
-Chinese Forum : [http://www.cocoachina.com](http://www.cocoachina.com/bbs/thread.php?fid=48)    
-English Forum：[http://www.cocos2d-x.org](http://www.cocos2d-x.org/forums/24)   
+Chinese Forum : [http://www.cocoachina.com](http://www.cocoachina.com/bbs/thread.php?fid=48)
+English Forum：[http://www.cocos2d-x.org](http://www.cocos2d-x.org/forums/24)
 
 ### Social Support
 
-You can contact us in social networks 
+You can contact us in social networks
 
-weibo: [@cocos2d-x](http://weibo.com/cocos2dx) 
+weibo: [@cocos2d-x](http://weibo.com/cocos2dx)
 
 
 ### Mail Support
 
 If you experience problems at using Cocos Studio , including but not limited to following: abnormal exit, inconsistent with expectations, the installation fails,The resulting file is called failure or abnormality in the program, etc.
-Please the information of environmental systems  ，Specific performance，Operating  when problems arise send to：[Cocos Studio@chukong-inc.com](Cocos Studio@chukong-inc.com).More informations will provide, more quickly to solve the problem .
+Please the information of environmental systems  ，Specific performance，Operating  when problems arise send to：[CocoStudio@chukong-inc.com]().More informations will provide, more quickly to solve the problem .

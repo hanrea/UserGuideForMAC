@@ -1,16 +1,27 @@
-# 版本特性
+# Version Feature
 
-## 当前版本
+## Current Version
 
-当前最新版本为"Cocos Studio for Mac V1.0.0.0 Alpha"
+The latest version is "Cocos Studio for Mac V1.0.0.0 Beta"
 
-关于"版本"的声明请查看[版本](./../other/version/zh.md)介绍
+About the definition of "Version": [Version definition](./../other/version/en.md) .
 
-### 特性
+### Current Version Feature
 
-- 项目入口统一，编辑更自由
-- 提供对齐、等距等方式布局界面   
-- 模拟预览,查看真实效果
-- 光滑插值，动画之间的变换更自然
-- 纹理包装，自动合图，更低内存，更高性能。  
-- 数据格式化输出，提供二进制数据与json数据
+- Support Mac OS X 10.7/10.8/10.9.
+- Remove the Json redundancy data.
+- Windows version's data update.
+
+###History Version Feature
+
+----
+
+Version Number：V1.0.0.0 Alpha
+
+- Project unified entrance, edit more freedom.
+- Provide alignment, equidistant distribution interface.
+- Simulation preview, view the real effect.
+- Transformation between smooth interpolation, animation, more natural
+
+
+----

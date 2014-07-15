@@ -2,7 +2,7 @@
 
 ## 图标
 
-
+![](./res/checkbox.png)
 ## 描述
 
 CheckBox的类是一个Widget子类，它实现了在触摸屏上的复选框。

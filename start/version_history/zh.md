@@ -7,150 +7,21 @@
 版本：Cocos Studio for Mac V1.0.0.0 Alpha
 下载：	
 
-- [**Cocos Studio for Mac**](..........)      
+- [**Cocos Studio for Mac**](http://www.cocos2d-x.org/filedown/CocosStudio_v1.0.0.0_Beta1.dmg)      
 - **Cocos Studio for WIN**  
 
 说明：此版本仅提供Mac版本下载
 
 ----------
 
-##Windows版本
-<table>
-   <tr>
-      <td>Cocos Studio</td>
-      <td>Cocos2d-x</td>
-   </tr>
-   <tr>
-      <td>1.4.0.1</td>
-      <td>2.2.3/3.0Release</td>
-   </tr>
-   <tr>
-      <td>1.4.0.0</td>
-      <td>2.2.3/3.1Release</td>
-   </tr>
-   <tr>
-      <td>1.3.0.1</td>
-      <td>2.2.3/3.0RC1</td>
-   </tr>
-   <tr>
-      <td>1.3.0.0</td>
-      <td>2.2.3/3.0RC0</td>
-   </tr>
-   <tr>
-      <td>1.2.0.1</td>
-      <td>2.2.2/3.0beta</td>
-   </tr>
-   <tr>
-      <td>1.2.0.0</td>
-      <td>2.2.2/3.1beta</td>
-   </tr>
-   <tr>
-      <td>1.1.0.0</td>
-      <td>2.2.1</td>
-   </tr>
-   <tr>
-      <td>1.0.0.2</td>
-      <td>2.2.0</td>
-   </tr>
-   <tr>
-      <td>1.0.0.1</td>
-      <td>2.2.1</td>
-   </tr>
-   <tr>
-      <td>1.0.0.0</td>
-      <td>2.2.2</td>
-   </tr>
-</table>
+----------
+日期：2014/06/17   
+版本：Cocos Studio for Mac V1.0.0.0 Alpha
+下载：	
 
+- [**Cocos Studio for Mac**](http://www.cocos2d-x.org/filedown/CocoStudio_v1.0.0.0_Alpha1.dmg)      
+- **Cocos Studio for WIN**  
 
+说明：此版本仅提供Mac版本下载
 
-以下的版本是Cocos Studio独立发布cocos2d-x包，该包是基于cocos2d-x包的扩展包。 
-如果您使用的1.0.0.0版本之前的Cocos Studio编辑器，建议您同步升级编辑器和引擎到最新的版本。 
-如果您因特殊原因无法下载最新的版本，那么您可以到http://www.cocoachina.com/bbs/read.php?tid=154886下载对应的版本 
-<table>
-   <tr>
-      <td>Cocos Studio</td>
-      <td>Cocos2d-x</td>
-   </tr>
-   <tr>
-      <td>0.4.0.0</td>
-      <td>2.1.5b</td>
-   </tr>
-   <tr>
-      <td>0.3.3.0</td>
-      <td>2.1.4a</td>
-   </tr>
-   <tr>
-      <td>0.3.2.0</td>
-      <td>2.1.4h</td>
-   </tr>
-   <tr>
-      <td>0.3.1.0</td>
-      <td>2.1.4g</td>
-   </tr>
-   <tr>
-      <td>0.3.0.0</td>
-      <td>2.1.4f</td>
-   </tr>
-   <tr>
-      <td>0.2.4.1</td>
-      <td>2.1.4e</td>
-   </tr>
-   <tr>
-      <td>0.2.4.0</td>
-      <td>2.1.4d</td>
-   </tr>
-   <tr>
-      <td>0.2.3</td>
-      <td>2.1.4c</td>
-   </tr>
-   <tr>
-      <td>0.2.2</td>
-      <td>2.1.4b</td>
-   </tr>
-   <tr>
-      <td>0.2.1</td>
-      <td>2.1.5b</td>
-   </tr>
-   <tr>
-      <td>0.2.0</td>
-      <td>2.1.6b</td>
-   </tr>
-   <tr>
-      <td>0.1.7</td>
-      <td>2.1.4a</td>
-   </tr>
-</table>
-
-
-以下版本版本是单独发布的guilib扩展包
-<table>
-   <tr>
-      <td>Cocos Studio</td>
-      <td>Cocos2d-x</td>
-   </tr>
-   <tr>
-      <td>0.1.6</td>
-      <td>2.1.3</td>
-   </tr>
-   <tr>
-      <td>0.1.4</td>
-      <td>2.1.3</td>
-   </tr>
-   <tr>
-      <td>0.1.4</td>
-      <td>2.1.3</td>
-   </tr>
-   <tr>
-      <td>0.1.6</td>
-      <td>2.1.3</td>
-   </tr>
-   <tr>
-      <td>0.1.2</td>
-      <td>2.1.3</td>
-   </tr>
-   <tr>
-      <td>0.1.1</td>
-      <td>2.1.3</td>
-   </tr>
-</table>
+----------
